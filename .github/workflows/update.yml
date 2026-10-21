@@ -1,0 +1,39 @@
+name: Update Naver Series[IT] RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # 1시간마다 실행
+
+permissions:
+  contents: write  # xml 푸시를 위한 쓰기 권한
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright pytz
+          playwright install --with-deps chromium
+
+      - name: Run scraping script
+        run: |
+          python main.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add naver_series_it.xml
+          git commit -m "Auto update RSS feed" || exit 0
+          git push

@@ -6,8 +6,8 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from playwright.async_api import async_playwright
 
-TARGET_URL = "https://news.naver.com/opinion/series?whole=Y&sid=IT&order=update"
-OUTPUT_FILE = "naver_series_it.xml"
+TARGET_URL = "https://news.naver.com/opinion/series?whole=Y&sid=WORLD&order=update"
+OUTPUT_FILE = "naver_series_world.xml"
 KST = pytz.timezone("Asia/Seoul")
 
 async def fetch_exact_pubdate(context, link: str, fallback_date_str: str) -> datetime:

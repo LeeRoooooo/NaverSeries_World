@@ -1,4 +1,4 @@
-name: Update Naver Series[IT] RSS
+name: Update Naver Series[세계] RSS
 
 on:
   workflow_dispatch:
@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add naver_series_it.xml
+          git add naver_series_world.xml
           git commit -m "Auto update RSS feed" || exit 0
           git push

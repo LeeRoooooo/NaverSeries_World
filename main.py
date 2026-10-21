@@ -124,13 +124,13 @@ def build_rss_feed(articles):
 
     # 메타데이터 설정
     title = ET.SubElement(channel, "title")
-    title.text = "네이버 뉴스 연재 - IT/과학"
+    title.text = "네이버 뉴스 연재 - 세계"
 
     link = ET.SubElement(channel, "link")
     link.text = TARGET_URL
 
     description = ET.SubElement(channel, "description")
-    description.text = "네이버 뉴스 연재(IT/과학) 최신 업데이트 RSS 피드"
+    description.text = "네이버 뉴스 연재(세계) 최신 업데이트 RSS 피드"
 
     language = ET.SubElement(channel, "language")
     language.text = "ko"

@@ -5,9 +5,37 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=WORLD&amp;order=update</link>
     <description>네이버 뉴스 연재(세계) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:19:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:05:39 +0900</lastBuildDate>
     <item>
-      <title>[경향신문] “트럼프, 머스크와 통화…우크라 스타실드 속도제한 풀어달라” (2026.10.23.)</title>
+      <title>[뉴시스] 중국 증시 하락 출발…상하이지수 0.94%↓ (2026.10.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/003/0014273759?type=series&amp;cid=2000496</link>
+      <description>언론사: 뉴시스 / 등록일: 2026.10.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/003/0014273759?type=series&amp;cid=2000496</guid>
+      <pubDate>Fri, 23 Oct 2026 11:05:39 +0900</pubDate>
+    </item>
+    <item>
+      <title>[서울신문] “대통령 반대하려 투표”…트럼프에 등 돌린 美 Z세대 (2026.10.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003691835?type=series&amp;cid=2001404</link>
+      <description>언론사: 서울신문 / 등록일: 2026.10.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003691835?type=series&amp;cid=2001404</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>[헤럴드경제] 美민주당 지지층, 트럼프 우편투표 압박에 현장투표로 대거 이동 (2026.10.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002713410?type=series&amp;cid=2003479</link>
+      <description>언론사: 헤럴드경제 / 등록일: 2026.10.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002713410?type=series&amp;cid=2003479</guid>
+      <pubDate>Fri, 23 Oct 2026 10:29:07 +0900</pubDate>
+    </item>
+    <item>
+      <title>[머니투데이] '마흔살' 월드콘, 1986년 옷 다시 입었다…레트로 패키지 출시 (2026.10.23.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005430617?type=series&amp;cid=2002045</link>
+      <description>언론사: 머니투데이 / 등록일: 2026.10.23.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005430617?type=series&amp;cid=2002045</guid>
+      <pubDate>Fri, 23 Oct 2026 10:24:16 +0900</pubDate>
+    </item>
+    <item>
+      <title>[경향신문] “트럼프, 머스크와 통화…우크라 스타실드 속도제한 풀어달라 요청” (2026.10.23.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/032/0003478090?type=series&amp;cid=2002124</link>
       <description>언론사: 경향신문 / 등록일: 2026.10.23.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/032/0003478090?type=series&amp;cid=2002124</guid>
@@ -19,13 +47,6 @@
       <description>언론사: 코리아헤럴드 / 등록일: 2026.10.23.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/044/0000291182?type=series&amp;cid=1088065</guid>
       <pubDate>Fri, 23 Oct 2026 08:01:06 +0900</pubDate>
-    </item>
-    <item>
-      <title>[헤럴드경제] 美 20대 63% “트럼프 반대 위해 투표”…Z세대 심판 투표하나 (2026.10.23.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/016/0002713240?type=series&amp;cid=2003479</link>
-      <description>언론사: 헤럴드경제 / 등록일: 2026.10.23.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/016/0002713240?type=series&amp;cid=2003479</guid>
-      <pubDate>Fri, 23 Oct 2026 07:47:11 +0900</pubDate>
     </item>
     <item>
       <title>[서울경제] 내 테슬라가 택시로?…내년 무감독 자율차 나온다 (2026.10.23.)</title>
@@ -56,13 +77,6 @@
       <pubDate>Fri, 23 Oct 2026 05:33:10 +0900</pubDate>
     </item>
     <item>
-      <title>[뉴시스] TSMC, 희토류 자석 쓰지 않은 모터 도입 모색…中 수출통제에 대응 (2026.10.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/003/0014272967?type=series&amp;cid=2000496</link>
-      <description>언론사: 뉴시스 / 등록일: 2026.10.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/003/0014272967?type=series&amp;cid=2000496</guid>
-      <pubDate>Thu, 22 Oct 2026 22:33:33 +0900</pubDate>
-    </item>
-    <item>
       <title>[프레시안] 러, 내달 미·우크라 '3자 회담' 동의… 9달만에 종전협상 재개될까 (2026.10.22.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/002/0002462293?type=series&amp;cid=2000522</link>
       <description>언론사: 프레시안 / 등록일: 2026.10.22.</description>
@@ -70,18 +84,18 @@
       <pubDate>Thu, 22 Oct 2026 22:33:10 +0900</pubDate>
     </item>
     <item>
+      <title>[경향신문] 알래스카는 지금 ‘트럼프 찬반 투표’ 중 (2026.10.22.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/032/0003478058?type=series&amp;cid=2002059</link>
+      <description>언론사: 경향신문 / 등록일: 2026.10.22.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/032/0003478058?type=series&amp;cid=2002059</guid>
+      <pubDate>Thu, 22 Oct 2026 22:13:00 +0900</pubDate>
+    </item>
+    <item>
       <title>[한국경제TV] &quot;나 명문대 법학과 다니는 사람이야&quot;…비즈니스석 '무단 점거'한 여성 결국 (2026.10.22.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/215/0001270160?type=series&amp;cid=2003706</link>
       <description>언론사: 한국경제TV / 등록일: 2026.10.22.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/215/0001270160?type=series&amp;cid=2003706</guid>
       <pubDate>Thu, 22 Oct 2026 22:03:32 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울신문] 트럼프, 푸틴에 속았나?…돈 벌 길 열어줬는데 영토 요구 그대로 (2026.10.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/081/0003691663?type=series&amp;cid=2001404</link>
-      <description>언론사: 서울신문 / 등록일: 2026.10.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/081/0003691663?type=series&amp;cid=2001404</guid>
-      <pubDate>Thu, 22 Oct 2026 21:32:12 +0900</pubDate>
     </item>
     <item>
       <title>[서울신문] “커피 안 사고 자리만 차지” 손님 늘자…스타벅스, 결국 ‘이것’ 의무화한다 (2026.10.22.)</title>
@@ -117,20 +131,6 @@
       <description>언론사: 국제신문 / 등록일: 2026.10.22.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/658/0000159212?type=series&amp;cid=2003344</guid>
       <pubDate>Thu, 22 Oct 2026 19:36:24 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울경제] 순이익 두 배 넘겼는데…스페이스X 채권에 켜진 경계등 “AI 투자 우려” (2026.10.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004674231?type=series&amp;cid=2003812</link>
-      <description>언론사: 서울경제 / 등록일: 2026.10.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004674231?type=series&amp;cid=2003812</guid>
-      <pubDate>Thu, 22 Oct 2026 19:03:09 +0900</pubDate>
-    </item>
-    <item>
-      <title>[디지털타임스] [글로벌 오피니언 리더] 밀레이 아르헨 대통령, 스페인 총리 향해 “독재자” (2026.10.22.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/029/0003054746?type=series&amp;cid=1089880</link>
-      <description>언론사: 디지털타임스 / 등록일: 2026.10.22.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/029/0003054746?type=series&amp;cid=1089880</guid>
-      <pubDate>Thu, 22 Oct 2026 18:13:03 +0900</pubDate>
     </item>
   </channel>
 </rss>

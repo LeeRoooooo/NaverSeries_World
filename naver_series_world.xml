@@ -5,7 +5,21 @@
     <link>https://news.naver.com/opinion/series?whole=Y&amp;sid=WORLD&amp;order=update</link>
     <description>네이버 뉴스 연재(세계) 최신 업데이트 RSS 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:05:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:01:15 +0900</lastBuildDate>
+    <item>
+      <title>[조선비즈] 사라진 “국물이 끝~내줘요”… 라면 광고에서 먹는 장면이 없어진 이유 (2026.11.22.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/366/0001206407?type=series&amp;cid=2003355</link>
+      <description>언론사: 조선비즈 / 등록일: 2026.11.22.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/366/0001206407?type=series&amp;cid=2003355</guid>
+      <pubDate>Sun, 22 Nov 2026 06:01:15 +0900</pubDate>
+    </item>
+    <item>
+      <title>[머니투데이] 뇌에 밥 주는 아침 루틴…요즘 뜨는 디지털 디톡스 방법 (2026.11.22.)</title>
+      <link>https://n.news.naver.com/mnews/hotissue/article/008/0005444475?type=series&amp;cid=2003199</link>
+      <description>언론사: 머니투데이 / 등록일: 2026.11.22.</description>
+      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005444475?type=series&amp;cid=2003199</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0900</pubDate>
+    </item>
     <item>
       <title>[서울신문] 푸틴 “보복한다”더니 ‘젤렌스키 고향’ 더블탭 공격, 7세 사망…절규 가득 쑥대밭 (2026.11.22.)</title>
       <link>https://n.news.naver.com/mnews/hotissue/article/081/0003701787?type=series&amp;cid=2003012</link>
@@ -117,20 +131,6 @@
       <description>언론사: 머니투데이 / 등록일: 2026.11.21.</description>
       <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/008/0005444351?type=series&amp;cid=2002045</guid>
       <pubDate>Sat, 21 Nov 2026 06:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울경제] 선급금 50%까지 걸었는데…문샷AI, 엔비디아 칩 계약 접었다 (2026.11.21.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004684552?type=series&amp;cid=2002794</link>
-      <description>언론사: 서울경제 / 등록일: 2026.11.21.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004684552?type=series&amp;cid=2002794</guid>
-      <pubDate>Sat, 21 Nov 2026 05:51:11 +0900</pubDate>
-    </item>
-    <item>
-      <title>[서울경제] 알파벳 이사회 의장 “법률 문서 업무, AI에 완전히 대체될 것”[김창영의 실리콘밸리 룩] (2026.11.21.)</title>
-      <link>https://n.news.naver.com/mnews/hotissue/article/011/0004684551?type=series&amp;cid=1088902</link>
-      <description>언론사: 서울경제 / 등록일: 2026.11.21.</description>
-      <guid isPermaLink="true">https://n.news.naver.com/mnews/hotissue/article/011/0004684551?type=series&amp;cid=1088902</guid>
-      <pubDate>Sat, 21 Nov 2026 05:45:11 +0900</pubDate>
     </item>
   </channel>
 </rss>
